@@ -1,2 +1,2 @@
-# JavaScript-Cariaveis-Tipos-Operadores
+# JavaScript-Variaveis-Tipos-Operadores
 Algumas funções do JavaScript
